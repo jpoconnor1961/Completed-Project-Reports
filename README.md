@@ -1,2 +1,2 @@
 # Completed Project Reports
-Click on the PDF of a report from the list above to open with the option to review and/or download.
+Click on a link from the list above to open the PDF of a project report with the option to review and/or download.
